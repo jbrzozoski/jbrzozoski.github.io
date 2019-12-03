@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "First!"
+date:   2019-12-02 22:57:57 -0500
+categories: jekyll update
+---
+Just setup Jekyll with default settings.  In looking around, my first two questions are:
+1. Why does the `title` field appear so many times in the header/footer of the default theme?
+2. What does the `categories` field do in the front matter of posts?
+
+I'm sure I'll have a lot more questions as I look around, I just want to actually make a post.
