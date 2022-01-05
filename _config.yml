@@ -18,11 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Professional programmer, mostly embedded C
+title: Problems, sometimes with answers...
 email: justin.brzozoski@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is mostly a place for me to experiment with jekyll.
-  Don't expect much meaningful content here.
+  I plan on keeping notes on technical issues as I run into them here, with solutions as well if I have any.  
+  This is planned mostly for my own reference as a tech journal to look back on, but maybe someone else will find something helpful. 
+  Comments are disabled, but feel free to email me directly.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://jbrzozoski.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
