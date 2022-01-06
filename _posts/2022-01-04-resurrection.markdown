@@ -2,7 +2,7 @@
 layout: post
 title:  "Plausibly resurrecting this blog..."
 date:   2022-01-04 23:47:57 -0500
-categories:
+categories: computers blogging
 ---
 I was looking for a place to keep notes or a journal regarding the things I've been doing with my home computer setup so I can refer back in the future. I'm not planning on including any private or confidential information, so I don't have too much concern with hosting it up on this blog.
 

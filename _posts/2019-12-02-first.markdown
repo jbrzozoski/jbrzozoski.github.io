@@ -2,7 +2,7 @@
 layout: post
 title:  "First!"
 date:   2019-12-02 22:57:57 -0500
-categories: jekyll update
+categories: blogging
 ---
 Just setup Jekyll with default settings.  In looking around, my first two questions are:
 1. Why does the `title` field appear so many times in the header/footer of the default theme?

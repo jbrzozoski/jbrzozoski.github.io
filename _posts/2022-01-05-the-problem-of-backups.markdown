@@ -2,7 +2,7 @@
 layout: post
 title:  "The problem of backups..."
 date:   2022-01-05 00:01:00 -0500
-categories: pbs proxmoxve
+categories: proxmox-backup-server proxmox-ve computers
 ---
 # What's the problem?
 
