@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to boot a from USB device in Virtualbox w/o excessive priviliges
+title:  How to boot from a USB device in Virtualbox w/o excessive priviliges
 date:   2026-04-06 00:01:00 -0500
 categories: computers
 ---
@@ -21,4 +21,3 @@ This time, the image was much smaller (only the size of the actual data and not 
 Then I just changed the ownership of the VDI file so that my normal user could access it, and attached it to a new VM.
 
 After installing Win11, I detached the VDI from the VM and all is well.
-

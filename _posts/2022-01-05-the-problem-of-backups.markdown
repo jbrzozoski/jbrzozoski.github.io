@@ -93,4 +93,3 @@ pvesm add zfspool enc-zfs --pool dpool/edata --content images,rootdir --mountpoi
 ```
 
 At this point I can use the usual methods in PVE to create or move file-stores or block-stores on the new `enc-zfs` area.
-
